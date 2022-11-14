@@ -41,6 +41,13 @@
       text-align: right;
       padding: 5px;
      }
-</style> 
-
-
+   .especial{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(110, 5, 5);
+    border:none;
+    color: white;
+   }
+</style>
